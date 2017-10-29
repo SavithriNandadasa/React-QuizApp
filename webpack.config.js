@@ -11,7 +11,7 @@ module.exports = {
 			{
 
 				exclude : /(node_modules|app-server.js)/,
-				loader : 'babel -loader'
+				loader : 'babel-loader'
 		
 			}
 
