@@ -3,7 +3,7 @@ var React = require('react');
 var APP = React.createClass({
       render() {
 
-           return( Hello World form React);
+           return( <div>Hello World form React</div>);
        }
 
     });
