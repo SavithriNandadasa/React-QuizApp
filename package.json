@@ -1,0 +1,31 @@
+{
+  "name": "react-quizapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-client.js",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "react": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonyFenton/React-QuizApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonyFenton/React-QuizApp/issues"
+  },
+  "homepage": "https://github.com/AntonyFenton/React-QuizApp#readme"
+}
