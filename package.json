@@ -5,6 +5,7 @@
   "main": "app-client.js",
   "dependencies": {
     "babel": "^6.23.0",
+    "babel-preset-react": "^6.24.1",
     "bootstrap": "^3.3.7",
     "express": "^4.16.2",
     "react": "^16.0.0"
